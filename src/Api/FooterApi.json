@@ -1,0 +1,18 @@
+
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Gurugram, India"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "0987654321"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "abcd@example.com"
+  }
+]
