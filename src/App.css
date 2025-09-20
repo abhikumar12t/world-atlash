@@ -480,6 +480,17 @@ country Card
     margin: 0 auto;
   }
 
+
+  .section-searchFilter {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px 0;
+}
+
  
 }
 
