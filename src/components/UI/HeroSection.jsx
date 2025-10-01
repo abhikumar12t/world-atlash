@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import { FaLongArrowAltRight } from "react-icons/fa";
 const HeroSection = () => {
   return (
@@ -14,7 +15,7 @@ const HeroSection = () => {
             search, and filter through countries to find the details you need.
           </p>
           <button className="btn btn-darken btn-inline bg-white-box">
-            Start Exploring <FaLongArrowAltRight />
+           <Link style={{color: 'white', textDecoration: 'none'}} to="/country">Start Exploring</Link> <FaLongArrowAltRight />
           </button>
         </div>
         <div className="hero-image">
