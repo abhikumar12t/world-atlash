@@ -36,7 +36,7 @@ function Footer() {
         <div className="container">
               <p>
                 Copyright &copy;{new Date().getFullYear()} All Right Reserved
-                  <span style={{color: "blue", marginLeft: '20px'}}>Abhishek Kumar</span>
+                  <span style={{color: "#3a4ed5", marginLeft: '20px'}}>Abhishek Kumar</span>
               </p>
         </div>
       </div>
